@@ -19,7 +19,7 @@ pip install pyautogui
 2. Ejecuta el script en una terminal o entorno de desarrollo con el siguiente comando:
 
 ```bash
-python mover_mouse.py
+python script.py
 ```
 
 3. El script iniciará el movimiento del mouse durante una hora. Si deseas detenerlo manualmente, presiona `Ctrl + C`.
